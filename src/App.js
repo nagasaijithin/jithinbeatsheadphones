@@ -1,24 +1,34 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.scss";
+//All components
+import { Home } from "./components/home.components";
+import Contentwapper from "./components/contentwapper.component";
+import { Itsoundsbigcontent, Itsimg } from "./components/itsoundsbig.component";
+import { Fimg, Fc } from "./components/features.component";
+import { Tadcontent, Tadimg } from "./components/tadesigns.component";
+import Footer from "./components/footer.component";
+import Mynav from "./components/mynav.component";
 
+import Beastapp from "./components/beastapp.component";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Mynav />
+      <Home />
+      <Contentwapper>
+        <Fc />
+        <Fimg />
+      </Contentwapper>
+      <Contentwapper>
+        <Itsimg />
+        <Itsoundsbigcontent />
+      </Contentwapper>
+      <Contentwapper>
+        <Tadcontent />
+        <Tadimg />
+      </Contentwapper>
+      <Beastapp />
+      <Footer />
     </div>
   );
 }
