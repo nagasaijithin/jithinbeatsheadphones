@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/jithinbeatsheadphones/static/css/main.89af8791.chunk.css",
+    "main.js": "/jithinbeatsheadphones/static/js/main.124f5a03.chunk.js",
+    "main.js.map": "/jithinbeatsheadphones/static/js/main.124f5a03.chunk.js.map",
+    "runtime-main.js": "/jithinbeatsheadphones/static/js/runtime-main.21463c90.js",
+    "runtime-main.js.map": "/jithinbeatsheadphones/static/js/runtime-main.21463c90.js.map",
+    "static/js/2.df9aa0b6.chunk.js": "/jithinbeatsheadphones/static/js/2.df9aa0b6.chunk.js",
+    "static/js/2.df9aa0b6.chunk.js.map": "/jithinbeatsheadphones/static/js/2.df9aa0b6.chunk.js.map",
+    "index.html": "/jithinbeatsheadphones/index.html",
+    "precache-manifest.6c35abdba7776cc6091192f742daff34.js": "/jithinbeatsheadphones/precache-manifest.6c35abdba7776cc6091192f742daff34.js",
+    "service-worker.js": "/jithinbeatsheadphones/service-worker.js",
+    "static/css/main.89af8791.chunk.css.map": "/jithinbeatsheadphones/static/css/main.89af8791.chunk.css.map",
+    "static/js/2.df9aa0b6.chunk.js.LICENSE.txt": "/jithinbeatsheadphones/static/js/2.df9aa0b6.chunk.js.LICENSE.txt",
+    "static/media/BeatsLogo.png": "/jithinbeatsheadphones/static/media/BeatsLogo.697033ed.png",
+    "static/media/BeatsPillPlusimage002.png": "/jithinbeatsheadphones/static/media/BeatsPillPlusimage002.2edc59ed.png",
+    "static/media/PillPlusFeat.png": "/jithinbeatsheadphones/static/media/PillPlusFeat.f8684a02.png",
+    "static/media/eimg.jpg": "/jithinbeatsheadphones/static/media/eimg.0a1c3103.jpg",
+    "static/media/pillplusblack01.png": "/jithinbeatsheadphones/static/media/pillplusblack01.bbfb40fc.png",
+    "static/media/unnamed.jpg": "/jithinbeatsheadphones/static/media/unnamed.1e6179ad.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21463c90.js",
+    "static/js/2.df9aa0b6.chunk.js",
+    "static/css/main.89af8791.chunk.css",
+    "static/js/main.124f5a03.chunk.js"
+  ]
+}
